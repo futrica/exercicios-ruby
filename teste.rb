@@ -6,7 +6,7 @@ num = num.to_i
 i = 1
 aux = 0
 
-	while i < 10
+	while i < num
 
 		if num % i == 0
 			aux = aux + 1
